@@ -12,6 +12,8 @@ import Entidades.Prestador;
  */
 public class Main {
     public static void main(String[] args) {
+        Prestador prestador = new Prestador();
+        
         
     }
     
